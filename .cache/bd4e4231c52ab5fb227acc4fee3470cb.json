@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"./index.js","dynamic":true}],"generated":{"html":"<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <title>React & Parcel Boilerplate</title>\n  </head>\n  <body>\n    <div id=\"root\"></div>\n    <script src=\"/dist/5f5d1894973ada5c677335f18fa5ed4c.js\"></script>\n  </body>\n</html>"},"hash":"e9d50f1df431f4233473c132400e64f6","cacheData":{}}
